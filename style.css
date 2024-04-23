@@ -2,4 +2,12 @@ body {background-color: darkgray;
 }
 #ima1 {margin-left: solid;
         border-color: darkblue;
-         border-width: 7px;}
+         border-width: 7px;
+        }
+        h1 {text-align: center;
+        }
+        h1{background-color: aqua;
+        }
+        h2{background-color: rgb(red, green, blue);
+        }
+
